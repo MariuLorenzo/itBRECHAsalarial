@@ -5,7 +5,7 @@
 
 
 ## Despliegue 📦
-\## 🛠️ Abre y ejecuta el proyecto
+\## 🛠️ Abre el archivo "requirements.txt" y ejecuta el proyecto en un entorno virtual.
 
 
 ## Construido con 🛠️
@@ -14,11 +14,11 @@
 
 
 
-## Desarrollo del Proyecto :bulb:
+## Desarrollo del Proyecto en Py :bulb:
 
 * [MariuLorenzo](https://github.com/MariuLorenzo)
 
-* ## Autoras ✒️
+* ## Autora ✒️
 
 * **Mariela Lorenzo** - [MariuLorenzo](https://github.com/MariuLorenzo)
   <img src="https://avatars.githubusercontent.com/u/114081375?v=4" width=115>
