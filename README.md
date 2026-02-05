@@ -22,9 +22,3 @@
 
 * **Mariela Lorenzo** - [MariuLorenzo](https://github.com/MariuLorenzo)
   <img src="https://avatars.githubusercontent.com/u/114081375?v=4" width=115>
-
-* **Johana Navarro**  - [Johana-Navarro](https://github.com/johana-navarro)
-  <img src="https://avatars.githubusercontent.com/u/135089695?v=4" width=115>
-
-* **Sonia Pereira**   - [SonyGahan](https://github.com/SonyGahan)
-  <img src="https://avatars.githubusercontent.com/u/94231488?v=4" width=115>
